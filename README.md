@@ -1,4 +1,4 @@
-# gcook
+# gin-server
 
 ## Prerequisite
 
